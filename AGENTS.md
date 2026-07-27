@@ -13,7 +13,7 @@ This repository develops thin helper scripts around Lima.
 
 ## Canonical Behavior
 
-- `there` behavior is specified in `.agents/specs/there/spec.md`.
+- `there` behavior is specified in `SPEC.md`.
 - `there help` prints a compact agent-friendly command reference suitable for downstream project `AGENTS.md` files.
 
 ## Validation
